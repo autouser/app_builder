@@ -1,3 +1,4 @@
 Usage:
 
   rails new App -b app_builder.rb
+  rails new App -b https://raw.github.com/autouser/app_builder/master/app_builder.rb
