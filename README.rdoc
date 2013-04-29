@@ -1,0 +1,3 @@
+Usage:
+
+  rails new App -b app_builder.rb
